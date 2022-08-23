@@ -4,7 +4,7 @@
 This project was made to aid in the creation of schedules for volunteers at Discovery Place
 
 ## Code
-Check out the code [here!](https://github.com/DPSchedule/DPSchedule.github.io)
+Check out the code [here](https://github.com/DPSchedule/DPSchedule.github.io)!
 
 ## Contribution
 Feel free to contribute to any repo by submitting a pull request
